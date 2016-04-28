@@ -17,7 +17,7 @@ or
 
 ## Demos
 
-www.runningcoder.org/autocompletetypeahead/demo/
+http://andreanisme.co/autocompletetypeahead/demo/
 
 
 ## Pull Requests
