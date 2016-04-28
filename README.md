@@ -1,5 +1,5 @@
 
-# jQuery Autocomplete Typehead
+# jQuery Autocomplete Typeahead
 
 The jQuery Typeahead plugin provides autocomplete preview on search inputs similar to google search with builtin options and deep customization.
 It is a simple clientside library that will improve the user experience on your website search input!
